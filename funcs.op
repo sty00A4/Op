@@ -1,0 +1,9 @@
+set test < func (case) <
+	if case <
+		return "yes"
+	> else <
+		return "no"
+	>
+>>
+
+print < call test true >

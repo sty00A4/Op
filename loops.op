@@ -1,0 +1,7 @@
+set i 0
+set a true
+while a <
+    print i
+    if <equal i 10> <set a false>
+    inc i
+>

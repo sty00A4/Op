@@ -1,0 +1,11 @@
+set a 1
+set b 2
+if < equal a b > <
+    print "equal"
+> else <
+    if < grtr a b > <
+        print "a is bigger than b"
+    > else <
+        print "b is bigger than a"
+    >
+>

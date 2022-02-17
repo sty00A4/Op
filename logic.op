@@ -1,0 +1,5 @@
+print < not false >
+print < and true false >
+print < or true false >
+print < xor true true >
+print < nand false false >
